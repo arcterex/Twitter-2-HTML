@@ -1,0 +1,16 @@
+== Twitter 2 HTML
+
+Convert a twitter feed from XML into HTML so you can copy and paste to your blog, site, etc.
+
+=== Usage
+Edit the source code to put in the name of the user you want to grab, if it's a file or URL to get from (for testing, speed), and tweak the output format.
+
+Run ./twitter2html.rb
+
+=== TODO
+Tooooooooooons :)
+ - configurable via command line or config file
+ - tests
+ - command line interface?
+ - make more ruby-ish
+ - make more class-y

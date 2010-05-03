@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+<status>
+  <created_at>Tue Apr 27 22:44:21 +0000 2010</created_at>
+  <id>12969693036</id>
+  <text>Repeating DHH: RT @dhh: Good advice gets better with repetition.</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>45</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Tue Apr 27 04:10:25 +0000 2010</created_at>
+  <id>12925691875</id>
+  <text>Looking for your favorite podcasts for ruby and rails learning for a blogpost for thinkinginrails.com  - please reply and RT!</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>16</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1271725794/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Apr 26 20:21:41 +0000 2010</created_at>
+  <id>12902570526</id>
+  <text>Some neat notes on upgrading the resful authentication gem for Rails 3 http://is.gd/bIUwF</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Apr 25 03:12:07 +0000 2010</created_at>
+  <id>12799530332</id>
+  <text>So if you publicly post how you're unable to find a solution to a problem, you'll find it 2 minutes later! http://bit.ly/aTeVmg</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sat Apr 24 05:04:28 +0000 2010</created_at>
+  <id>12746444742</id>
+  <text>Great look at startup lessons learned from DropBox: http://bit.ly/9td5lV - Good ideas on when or not to deploy your Next Great Idea</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sat Apr 24 01:27:17 +0000 2010</created_at>
+  <id>12736327229</id>
+  <text>Ruby 1.8.6 Policy http://bit.ly/dmuD0S /via @ruby_news - might be time to upgrade! Easy with RVM at least, thanks @wayneeseguin</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Fri Apr 23 22:40:39 +0000 2010</created_at>
+  <id>12728574319</id>
+  <text>Awesome, jetbrains is giving away @rubymine licenses for ruby summer of code students: http://bit.ly/de0kq7</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Fri Apr 23 15:46:22 +0000 2010</created_at>
+  <id>12709290660</id>
+  <text>New time gem... could be great in an upcoming project of mine! RT @wayneeseguin: Cool. http://bit.ly/cfYht3</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Wed Apr 21 16:29:14 +0000 2010</created_at>
+  <id>12585618176</id>
+  <text>RT @MilesForrest: If you like #coderpath could you help support it by giving it a bump up on Hacker News? http://bit.ly/9vmQ6O  Thanks :)</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Tue Apr 20 14:01:58 +0000 2010</created_at>
+  <id>12517746532</id>
+  <text>@danbenjamin isn't there a terminal app for ipad yet? Or did you need more than just an ssh console?</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id>12509528026</in_reply_to_status_id>
+  <in_reply_to_user_id>5905672</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>danbenjamin</in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>45</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Tue Apr 20 13:58:10 +0000 2010</created_at>
+  <id>12517542710</id>
+  <text>Very cool! Y'all should check out @repopular for trending/interesting code repos. #rails #pimping</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Tue Apr 20 06:11:28 +0000 2010</created_at>
+  <id>12501265685</id>
+  <text>Woo! Just discovered the @railscoach podcast!  On the downside, I now have 16 more unread podcasts :( #Ruby #podcast</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Apr 19 22:37:54 +0000 2010</created_at>
+  <id>12479871102</id>
+  <text>Hoping that this is for all: RT @railsconf: Want to go to #RailsConf but can't afford it? Apply for a scholarship: http://oreil.ly/aKLlmT</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Apr 19 22:37:06 +0000 2010</created_at>
+  <id>12479835396</id>
+  <text>In DC and wanna hack on rails3?  The hackfest info is here: http://is.gd/bzPfM</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Apr 19 18:54:19 +0000 2010</created_at>
+  <id>12470448679</id>
+  <text>RT @railsconf Today is the last day for #RailsConf early registration pricing. Register by 11:59pm ET to save up to $100. http://is.gd/bzCeL</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Apr 19 15:49:44 +0000 2010</created_at>
+  <id>12462372245</id>
+  <text>RT @josevalim: It's awesome how @rbates addresses in Devise's screencasts all frequent doubts people usually have on the mailing list!</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>16</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1271725794/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>42</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Apr 18 23:20:23 +0000 2010</created_at>
+  <id>12423540935</id>
+  <text>Are you a student and want to get paid to hack Ruby? Email @wycats - RE http://bit.ly/d89pYO</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Apr 18 05:17:55 +0000 2010</created_at>
+  <id>12381892010</id>
+  <text>Wow, the special effects in The Last Starfighter are *not* helped by the blueray....</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Apr 18 02:33:32 +0000 2010</created_at>
+  <id>12374572524</id>
+  <text>User Access control with CanCan just got better with the release of 1.1 - http://bit.ly/azPKrZ</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>132953966</id>
+    <name>Thinking in Rails</name>
+    <screen_name>thinkinginrails</screen_name>
+    <location>Fraser Valley, BC, Canada</location>
+    <description>Links from the Ruby on Rails world, companion twitter to the website.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/823365420/tir-small_normal.png</profile_image_url>
+    <url>http://thinkinginrails.com</url>
+    <protected>false</protected>
+    <followers_count>17</followers_count>
+    <profile_background_color>022330</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>C0DFEC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a8c7f7</profile_sidebar_border_color>
+    <friends_count>50</friends_count>
+    <created_at>Wed Apr 14 16:29:26 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1272324988/images/themes/theme15/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>44</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+</statuses>
