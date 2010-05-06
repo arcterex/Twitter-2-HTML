@@ -3,9 +3,9 @@ require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
 require 'uri'
-require 'date' 		# needed to make it run on my osx machine for some reason
-require 'builder' 	# for constructing formats of output
-require 'trollop' 	# parsing command line arguments
+require 'date'      # needed to make it run on my osx machine for some reason
+require 'builder'   # for constructing formats of output
+require 'trollop'   # parsing command line arguments
 
 # TODO 
 #  - list tweets out that you want to process
@@ -17,7 +17,7 @@ require 'trollop' 	# parsing command line arguments
 #  - pass in url for source
 
 
-class Twitter2HTML
+class TwitterXMLToHTML
   # User configurable
   Default_twitter_username = "thinkinginrails"
   Default_input            = "http://api.twitter.com/1/statuses/user_timeline.xml?screen_name=#{Default_twitter_username}"
@@ -27,24 +27,46 @@ class Twitter2HTML
     @twitteruser = username || Default_twitter_username
     @input       = input    || Default_input
     @output      = output   || STDOUT
+    @tweets      = []
     
     #puts "Debug: username = #{@twitteruser} - input: #{@input} - output: #{@output}"
     @xml = load_xml(@input)
+    @tweets = parse_tweets
   end
   
-  def output_html
-    @xml.xpath('//status').each do |status| 
-    	tweetid  = status.xpath('.//id').first.content
-    	datetext = status.xpath('.//created_at').first.content
-    	tweet    = status.xpath('.//text').first.content
-    	date = Date.parse(datetext)
-    	tweettext = parsetweet(tweet)
-    	puts "<li>#{tweettext} <em><a href=\"#{Default_url_prefix}#{tweetid}\">#</a></em></li>\n"
-    end
+  def output_html_all
+    @tweets.map { |t| output_html(t) }.join("\n")
+  end
+  
+  def [](num)
+    output_html(@tweets[num])
   end
   
 private
 
+  def output_html(t)
+    "<li>#{t[:parsed_tweet]} <em><a href=\"#{Default_url_prefix}#{t[:ttweetid]}\">#</a></em></li>"
+  end
+
+  def get_tweet(num)
+    output_html(@tweet[num])
+  end
+  
+  # parse the XML and load up the @tweets array
+  def parse_tweets
+    @xml.xpath('//status').each do |status| 
+    	id        = status.xpath('.//id').first.content
+    	datetext  = status.xpath('.//created_at').first.content
+    	tweet     = status.xpath('.//text').first.content
+    	date      = Date.parse(datetext)
+    	tweettext = parse_tweet(tweet)
+      # puts "<li>#{tweettext} <em><a href=\"#{Default_url_prefix}#{tweetid}\">#</a></em></li>\n"
+    	this_tweet = { :id => id, :tweet => tweet, :date => date, :parsed_tweet => tweettext }
+    	@tweets << this_tweet
+    end 
+    @tweets   
+  end
+  
   # grabbed from http://stackoverflow.com/questions/2034580/i-am-creating-a-twitter-clone-in-ruby-on-rails-how-do-i-code-it-so-that-the
   def linkup_mentions_and_hashtags(text)    
   	text.gsub!(/@([\w]+)(\W)?/, '<a href="http://twitter.com/\1">@\1</a>\2')
@@ -53,7 +75,7 @@ private
   end
 
   # deal with various tweet parsing code to link usernames, links, etc
-  def parsetweet(t)
+  def parse_tweet(t)
     URI.extract(t, %w[ http https ftp ]).each do |url|
       t.gsub!(url, "<a href=\"#{url}\">#{url}</a>")
     end
@@ -67,18 +89,17 @@ private
   end
 end
 
-# Defaults
-input = "twitter.xml"
-twitter_username = "thinkinginrails"
-
 # Command line parsing
 opts = Trollop::options do
-	opt :config,   "Use a YAML config file"
-	opt :username, "Use this twitter username",    :default => "thinkinginrails"
-	opt :output,   "Output file (default STDOUT)", :default => STDOUT
+       opt :config,   "Use a YAML config file"
+       opt :username, "Use this twitter username",    :default => "thinkinginrails"
+       opt :output,   "Output file (default STDOUT)", :default => STDOUT
 end
 
 p opts
 
-#t = Twitter2HTML.new(twitter_username,input,STDOUT)
-#t.output_html
+input = "twitter.xml"
+twitter_username = "thinkinginrails"
+
+t = TwitterXMLToHTML.new(twitter_username,input,STDOUT)
+puts t.output_html_all
